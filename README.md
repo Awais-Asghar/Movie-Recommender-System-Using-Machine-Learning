@@ -4,7 +4,7 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Recommender%20Systems-brightgreen)
 ![TMDB](https://img.shields.io/badge/Data-TMDB%20API-orange)
 ![MovieLens](https://img.shields.io/badge/Data-MovieLens-red)
-![License](https://img.shields.io/badge/License-Academic-lightgrey)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 ---
 
